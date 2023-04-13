@@ -45,7 +45,6 @@ body {
 
 #top_text {
     position: relative;
-    background-color: pink;
     padding-left: 0%;
     width: 35%;
     translate: 10vw 20vh;
@@ -56,7 +55,7 @@ body {
     position: relative;
     text-align: left;
     padding: 0;
-    background-color: purple;
+    translate: -10vh 0;
 }
 
 #top_text p {
@@ -64,7 +63,6 @@ body {
 }
 
 #skills {
-    background-color: coral;
     margin-bottom: 10vh;
 }
 #skills h2 {
@@ -107,6 +105,7 @@ body {
     width: 500px;
     margin-left: 5vw;
     margin-right: 5vw;
+    border-radius: 10px;
 }
 
 #bt_img {
